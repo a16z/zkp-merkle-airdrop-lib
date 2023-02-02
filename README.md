@@ -1,3 +1,5 @@
+*Notice: This repository has been deprecated in favor of the monorepo found at [a16z/zkdrops](https://github.com/a16z/zkdrops)*
+
 # Zk Merkle Airdrop Library
 Self-contained repo for interacting with the [zkp-merkle-airdrop-contracts](https://github.com/a16z/zkp-merkle-airdrop-contracts). A browser usage example of this library can be found in [zkp-merkle-airdrop-fe-ex](https://github.com/a16z/zkp-merkle-airdrop-fe-ex).
 
